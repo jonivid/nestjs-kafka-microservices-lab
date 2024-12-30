@@ -1,0 +1,9 @@
+{
+  "name": "ecommerce-backend",
+  "private": true,
+  "workspaces": [
+    "gateway",
+    "user-microservice",
+    "libs/*"
+  ]
+}
